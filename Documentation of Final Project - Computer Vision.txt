@@ -1,0 +1,43 @@
+1801448524 - Jevon Averill
+1801408792 - Agustinus Dios Dwi Putra Limono
+
+Login Form (Using Passing Value from Register Form)
+
+References:
+
+NoImageAvailable.jpg	
+http://www.thewoodjoynt.com/Content/Images/Products/NoImageAvailable.jpg	
+
+Camera-icon.png	
+http://icons.iconarchive.com/icons/pelfusion/long-shadow-media/256/Camera-icon.png
+	
+Girl.jpg 
+(9cca50039cb2377b0ec0a8b5a7f8f6a9.jpg)	
+https://s-media-cache-ak0.pinimg.com/736x/9c/ca/50/9cca50039cb2377b0ec0a8b5a7f8f6a9.jpg	
+
+Threshold_Tutorial_Theory_Example.jpg	
+http://docs.opencv.org/2.4/_images/Threshold_Tutorial_Theory_Example.jpg
+	
+Smoothing_Tutorial_Result_Median_Filter.jpg
+http://docs.opencv.org/2.4/_images/Smoothing_Tutorial_Result_Median_Filter.jpg
+	
+building_lsd.png	
+http://docs.opencv.org/3.0-beta/_images/building_lsd.png
+	
+detect-simple-shapes-dst-img.png	
+http://opencv-code.com/wp-content/uploads/detect-simple-shapes-dst-img.png
+	
+Images.jpg	
+https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzQ-POaf5jtkReBWvaTxiry8x9TzFYsyzO7CXcBqGPzJQwXmvC
+	
+CamUniversal-logo.png	
+http://cdn.warer.com/media/CamUniversal-logo.png
+	
+Face_detection.jpg	
+https://upload.wikimedia.org/wikipedia/commons/e/ef/Face_detection.jpg
+	
+KictureCollege.png	
+Made by ourself
+
+Girl_Gray.jpg	
+Save result from program
